@@ -10,15 +10,15 @@
 
 <br>
 
-# ✦ &nbsp; [ YOUR NAME ] &nbsp; ✦
+# ✦ &nbsp; [ BISHWAJIT PANIGRAHI ] &nbsp; ✦
 
-### Data Scientist  ·  Machine Learning Engineer  ·  AI Researcher
+### FULL Stack Engineer  ·  Machine Learning Engineer  ·  AI Researcher
 
 *"I find the signal in the noise — and build systems that scale."*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C4A96B.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C4A96B.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajit-panigrahi-2b3296292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23C4A96B.svg?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/YOURUSERNAME)
 &nbsp;
@@ -38,7 +38,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a **Data Scientist and ML Engineer** with a passion for transforming raw, messy data into  
+&nbsp;&nbsp;&nbsp;&nbsp;I am a **Web Developer and ML Engineer** with a passion for transforming raw, messy data into  
 &nbsp;&nbsp;&nbsp;&nbsp;elegant, interpretable models that actually ship to production. My work sits at the intersection  
 &nbsp;&nbsp;&nbsp;&nbsp;of statistical rigour and engineering craft.
 
@@ -48,7 +48,7 @@
 
 |  |  |
 |---|---|
-| 📍 &nbsp; **Location** | [ Your City, Country ] |
+| 📍 &nbsp; **Location** | [ Bhubaneswar, Odisha, India ] |
 | 🔭 &nbsp; **Currently** | Building production-grade ML pipelines |
 | 💬 &nbsp; **Ask me about** | NLP, MLOps, model interpretability, career pivots into AI |
 | 📖 &nbsp; **Reading** | *Designing Machine Learning Systems* — Chip Huyen |
@@ -136,7 +136,7 @@
 
 <br>
 
-**Reach me at** &nbsp;→&nbsp; [your@email.com](mailto:your@email.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOURUSERNAME)
+**Reach me at** &nbsp;→&nbsp; [bishwapanigrahi1803@email.com](mailto:your@email.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bishwajit-panigrahi-2b3296292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <br>
 
@@ -152,7 +152,7 @@
 
 <br>
 
-*Crafted with precision · [ YOUR NAME ] · 2026*
+*Crafted with precision · [ BISHWAJIT PANIGRAHI ] · 2026*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=C4A96B&style=flat-square&label=profile+views)
 
