@@ -154,6 +154,6 @@
 
 *Crafted with precision · [ BISHWAJIT PANIGRAHI ] · 2026*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=C4A96B&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Bishwa-code18&color=C4A96B&style=flat-square&label=profile+views)
 
 </div>
