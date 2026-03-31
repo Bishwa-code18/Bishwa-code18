@@ -24,7 +24,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23C4A96B.svg?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-%23C4A96B.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-%23C4A96B.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:bishwapanigrahi1823@Gmail.com)
 
 <br>
 
