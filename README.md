@@ -1,218 +1,254 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                 BISHWAJIT PANIGRAHI                         -->
-
-<!--                    GitHub Profile                            -->
+<!--              BISHWAJIT PANIGRAHI — GITHUB PROFILE          -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C4A96B&height=130&section=header&text=&fontSize=0" width="100%"/>
+<br>
 
-# ✦ BISHWAJIT PANIGRAHI ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C4A96B&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-### AI/ML Engineer · Full Stack Developer · B.Tech CSE
+<br>
 
-**Building intelligent systems and turning ideas into usable products.**
+# ✦   [ BISHWAJIT PANIGRAHI ]   ✦
 
-<br/>
+### AI/ML Engineer  ·  Full Stack Developer  ·  B.Tech CSE
 
-<a href="https://www.linkedin.com/in/bishwajit-panigrahi-2b3296292/">
-<img src="https://img.shields.io/badge/LinkedIn-C4A96B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Bishwa-code18">
-<img src="https://img.shields.io/badge/GitHub-C4A96B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:bishwapanigrihi1823@Gmail.com">
-<img src="https://img.shields.io/badge/Email-C4A96B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*"Building intelligent systems that solve real problems."*
 
-<br/><br/>
+<br>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C4A96B.svg?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bishwajit-panigrahi-2b3296292/)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-%23C4A96B.svg?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Bishwa-code18)
+ 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23C4A96B.svg?style=flat-square\&logo=kaggle\&logoColor=white)](https://kaggle.com/)
+ 
+[![Email](https://img.shields.io/badge/Email-%23C4A96B.svg?style=flat-square\&logo=gmail\&logoColor=white)](mailto:bishwapanigrahi1823@Gmail.com)
 
----
-
-## ✦ About Me
-
-I'm a **B.Tech Computer Science student** focused on **AI/ML engineering, Generative AI, and full-stack development**.
-
-I enjoy building practical systems that combine **machine learning, NLP, LLMs, retrieval systems, and web technologies** — from working with datasets and models to developing complete applications around them.
-
-Currently, I'm focused on improving my understanding of **AI/ML fundamentals, RAG systems, AI agents, backend development, and production-oriented software engineering**.
-
-<br/>
-
-<div align="center">
-
-| 🎯 Focus       | 🤖 AI/ML & Generative AI                         |
-| -------------- | ------------------------------------------------ |
-| 💻 Development | Full Stack / MERN                                |
-| 🧠 Interests   | NLP · LLMs · RAG · AI Agents                     |
-| 🔭 Building    | AI-powered applications & intelligent systems    |
-| 📚 Learning    | ML engineering & production-oriented development |
+<br>
 
 </div>
 
 ---
 
-## ✦ Tech Stack
+<br>
 
-### 🧠 AI / Machine Learning
+##   ✦   About Me
 
-<p>
-<img src="https://img.shields.io/badge/Python-3C2F1A?style=for-the-badge&logo=python&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/scikit--learn-3C2F1A?style=for-the-badge&logo=scikitlearn&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/PyTorch-3C2F1A?style=for-the-badge&logo=pytorch&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/Pandas-3C2F1A?style=for-the-badge&logo=pandas&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/NumPy-3C2F1A?style=for-the-badge&logo=numpy&logoColor=C4A96B"/>
-</p>
+<br>
 
-### 🤖 Generative AI / NLP
+    I am a **B.Tech Computer Science student focused on AI/ML engineering and full-stack development**.
 
-<p>
-<img src="https://img.shields.io/badge/LLMs-2C1F10?style=for-the-badge&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/RAG-2C1F10?style=for-the-badge&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/NLP-2C1F10?style=for-the-badge&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/LangChain-2C1F10?style=for-the-badge&logo=chainlink&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-2C1F10?style=for-the-badge&logo=huggingface&logoColor=C4A96B"/>
-</p>
+    I enjoy building projects that combine **machine learning, NLP, LLMs, retrieval systems, and web technologies** — from experimenting with models and datasets to turning them into usable applications.
 
-### 🌐 Full Stack Development
+    Currently, I am focusing on strengthening my foundations in **AI/ML, Generative AI, RAG systems, backend development, and production-oriented software engineering**.
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-1A1208?style=for-the-badge&logo=html5&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/CSS3-1A1208?style=for-the-badge&logo=css3&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/JavaScript-1A1208?style=for-the-badge&logo=javascript&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/React-1A1208?style=for-the-badge&logo=react&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/Node.js-1A1208?style=for-the-badge&logo=node.js&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/Express.js-1A1208?style=for-the-badge&logo=express&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/MongoDB-1A1208?style=for-the-badge&logo=mongodb&logoColor=C4A96B"/>
-</p>
+<br>
 
-### 🛠️ Languages & Tools
+|                             |                                                  |
+| --------------------------- | ------------------------------------------------ |
+| 🎯   **Focus**              | AI/ML Engineering & Generative AI                |
+| 🔭   **Currently Building** | AI Agent & RAG-based systems                     |
+| 💻   **Development**        | Full Stack / MERN                                |
+| 🧠   **Interested In**      | NLP, LLMs, RAG, Vector Search & AI Agents        |
+| 🛠️   **Approach**          | Learn → Build → Evaluate → Improve               |
+| 📚   **Currently Learning** | Advanced AI/ML & production-oriented development |
 
-<p>
-<img src="https://img.shields.io/badge/Java-1A1208?style=for-the-badge&logo=openjdk&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/C-1A1208?style=for-the-badge&logo=c&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/TypeScript-1A1208?style=for-the-badge&logo=typescript&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/Git-1A1208?style=for-the-badge&logo=git&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/GitHub-1A1208?style=for-the-badge&logo=github&logoColor=C4A96B"/>
-<img src="https://img.shields.io/badge/VS%20Code-1A1208?style=for-the-badge&logo=visualstudiocode&logoColor=C4A96B"/>
-</p>
+<br>
 
 ---
 
-## ✦ Featured Work
+<br>
+
+##   ✦   Tech Stack
+
+<br>
+
+**    — Languages**
+
+    ![Python](https://img.shields.io/badge/Python-3C2F1A?style=flat-square\&logo=python\&logoColor=C4A96B)
+ ![Java](https://img.shields.io/badge/Java-3C2F1A?style=flat-square\&logo=openjdk\&logoColor=C4A96B)
+ ![C](https://img.shields.io/badge/C-3C2F1A?style=flat-square\&logo=c\&logoColor=C4A96B)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-3C2F1A?style=flat-square\&logo=javascript\&logoColor=C4A96B)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3C2F1A?style=flat-square\&logo=typescript\&logoColor=C4A96B)
+
+<br>
+
+**    — AI / Machine Learning**
+
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-2C1F10?style=flat-square\&logo=scikitlearn\&logoColor=C4A96B)
+ ![PyTorch](https://img.shields.io/badge/PyTorch-2C1F10?style=flat-square\&logo=pytorch\&logoColor=C4A96B)
+ ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-2C1F10?style=flat-square\&logo=huggingface\&logoColor=C4A96B)
+ ![Pandas](https://img.shields.io/badge/Pandas-2C1F10?style=flat-square\&logo=pandas\&logoColor=C4A96B)
+ ![NumPy](https://img.shields.io/badge/NumPy-2C1F10?style=flat-square\&logo=numpy\&logoColor=C4A96B)
+
+<br>
+
+**    — Generative AI / NLP**
+
+    ![LangChain](https://img.shields.io/badge/LangChain-1A1208?style=flat-square\&logo=chainlink\&logoColor=C4A96B)
+ ![LLM](https://img.shields.io/badge/LLMs-1A1208?style=flat-square\&logo=openai\&logoColor=C4A96B)
+ ![RAG](https://img.shields.io/badge/RAG-1A1208?style=flat-square\&logoColor=C4A96B)
+ ![NLP](https://img.shields.io/badge/NLP-1A1208?style=flat-square\&logoColor=C4A96B)
+
+<br>
+
+**    — Full Stack Development**
+
+    ![React](https://img.shields.io/badge/React-1A1208?style=flat-square\&logo=react\&logoColor=C4A96B)
+ ![Node.js](https://img.shields.io/badge/Node.js-1A1208?style=flat-square\&logo=node.js\&logoColor=C4A96B)
+ ![Express.js](https://img.shields.io/badge/Express.js-1A1208?style=flat-square\&logo=express\&logoColor=C4A96B)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-1A1208?style=flat-square\&logo=mongodb\&logoColor=C4A96B)
+
+<br>
+
+**    — Tools & Development**
+
+    ![Git](https://img.shields.io/badge/Git-1A1208?style=flat-square\&logo=git\&logoColor=C4A96B)
+ ![GitHub](https://img.shields.io/badge/GitHub-1A1208?style=flat-square\&logo=github\&logoColor=C4A96B)
+ ![VS Code](https://img.shields.io/badge/VS%20Code-1A1208?style=flat-square\&logo=visualstudiocode\&logoColor=C4A96B)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-1A1208?style=flat-square\&logo=fastapi\&logoColor=C4A96B)
+
+<br>
+
+---
+
+<br>
+
+##   ✦   Featured Work
+
+<br>
 
 ### 🤖 AI Agent & RAG System
 
-An AI-powered system focused on **document retrieval, semantic search, embeddings, vector stores, and grounded question answering**.
-
-**Core concepts:**
-`RAG` · `Semantic Search` · `Embeddings` · `Vector Search` · `LLMs` · `Evaluation`
-
----
-
-### 🧠 Machine Learning Projects
-
-Hands-on experimentation with **data preparation, model training, evaluation, and machine learning workflows** across different datasets and problem domains.
+Building an AI-powered system focused on **document retrieval, semantic search, embeddings, vector stores, and grounded question answering**.
 
 **Focus:**
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch`
+`RAG` · `Semantic Search` · `Embeddings` · `Vector Search` · `LLMs` · `Evaluation`
 
----
+<br>
 
 ### 🌐 Full Stack Applications
 
-Building web applications while developing practical experience with **frontend interfaces, backend APIs, databases, and application architecture**.
+Building web applications while strengthening my understanding of **frontend development, backend APIs, databases, authentication, and deployment**.
 
 **Stack:**
-`React` · `Node.js` · `Express.js` · `MongoDB` · `JavaScript` · `TypeScript`
+`React` · `Node.js` · `Express.js` · `MongoDB` · `JavaScript/TypeScript`
+
+<br>
+
+### 🧠 Machine Learning Projects
+
+Experimenting with machine learning workflows involving **data preparation, model training, evaluation, and experimentation** across different datasets and problem domains.
+
+**Focus:**
+`Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch`
+
+<br>
 
 ---
 
-## ✦ Currently Learning
+<br>
 
-> **Build → Understand → Experiment → Improve**
+##   ✦   Currently Learning
 
-* 🔹 Large Language Models & Generative AI
-* 🔹 Retrieval-Augmented Generation
-* 🔹 Vector databases & semantic search
-* 🔹 AI agents & tool-based workflows
-* 🔹 NLP & transformer architectures
-* 🔹 Machine learning model development & evaluation
-* 🔹 Backend APIs for AI applications
-* 🔹 MERN stack & full-stack development
+<br>
+
+> *Build consistently. Understand deeply. Improve continuously.*
+
+<br>
+
+    **◦**   Large Language Models and Generative AI
+    **◦**   Retrieval-Augmented Generation (RAG)
+    **◦**   Vector databases and semantic search
+    **◦**   AI Agents and tool-based workflows
+    **◦**   NLP and transformer-based architectures
+    **◦**   Machine Learning model development and evaluation
+    **◦**   Backend APIs and production-oriented AI applications
+    **◦**   MERN stack and full-stack application development
+
+<br>
 
 ---
 
-## ✦ Certifications
+<br>
+
+##   ✦   What I'm Working Towards
+
+<br>
+
+<div align="center">
+
+### AI/ML Engineering
+
+Building practical AI systems that go beyond notebooks —
+from **data → models → retrieval → APIs → applications**.
+
+<br>
+
+### Full Stack Engineering
+
+Developing the software engineering skills needed to turn
+AI/ML ideas into **complete, usable products**.
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+##   ✦   Certifications
+
+<br>
 
 * **NPTEL — Joy of Computing using Python**
 * **NPTEL — Understanding Entrepreneurship and Incubation**
 
----
-
-## ✦ GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Bishwa-code18">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bishwa-code18&show_icons=true&hide_border=true&bg_color=1A1208&title_color=C4A96B&icon_color=C4A96B&text_color=FFFFFF"/>
-</a>
-
-<a href="https://github.com/Bishwa-code18">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwa-code18&layout=compact&hide_border=true&bg_color=1A1208&title_color=C4A96B&text_color=FFFFFF"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bishwa-code18&hide_border=true&background=1A1208&ring=C4A96B&fire=C4A96B&currStreakLabel=C4A96B&sideLabels=C4A96B&dates=FFFFFF" />
-
-</div>
+<br>
 
 ---
 
-## ✦ Open to Opportunities
+<br>
+
+##   ✦   Open to Opportunities
+
+<br>
 
 <div align="center">
 
-Interested in opportunities related to
+I am interested in opportunities related to:
 
-### `AI/ML Engineering` · `Generative AI` · `Machine Learning`
+<br>
 
-### `Software Engineering` · `Full Stack Development`
+`AI/ML Engineering`   ·   `Generative AI`   ·   `Machine Learning`   ·   `Software Engineering`   ·   `Full Stack Development`
 
-<br/>
+<br><br>
 
-**Let's build something meaningful.**
-
-<br/>
-
-<a href="mailto:bishwapanigrahi1823@Gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C4A96B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Reach me at** → [LinkedIn](https://www.linkedin.com/in/bishwajit-panigrahi-2b3296292/) · [Email](mailto:bishwapanigrahi1823@Gmail.com)
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C4A96B&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C4A96B&height=80&section=footer" width="100%"/>
 
-**Build · Learn · Experiment · Ship**
+<br>
 
-<br/><br/>
+*Build · Learn · Experiment · Ship*
 
-<img src="https://komarev.com/ghpvc/?username=Bishwa-code18&color=C4A96B&style=flat-square&label=PROFILE+VIEWS"/>
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Bishwa-code18\&color=C4A96B\&style=flat-square\&label=profile+views)
 
 </div>
